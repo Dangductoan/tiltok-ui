@@ -32,3 +32,10 @@ body {
     color: var(--text-color);
     overflow-y: overlay;
 }
+button,input ,[tabIndex] {
+    outline: none;
+    border: none;
+}
+a[href] {
+
+}
